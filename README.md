@@ -1,4 +1,4 @@
-## Multi-Select Component Setup in Next.js
+## Multi-Select Component Setup in Next.js with custom options
 ![image](https://github.com/user-attachments/assets/7cfaddd1-d764-4d3d-835f-f74d33151b8e)
 ![image](https://github.com/user-attachments/assets/091650df-c923-43b7-9b9d-cf10de669b62)
 ![image](https://github.com/user-attachments/assets/f30fd407-ce83-4aab-ab2f-bffbf385e987)
